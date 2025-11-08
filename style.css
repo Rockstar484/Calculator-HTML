@@ -1,0 +1,26 @@
+#mainCalculator {
+    height: 40vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    margin-bottom: auto;
+    background-color: black;
+}
+#display {
+    height: 1cm;
+}
+.row{
+    background-color: grey;
+}
+.cell{
+    height: 1cm;
+    width: 1cm;
+}
+.button{
+    height: 1cm;
+    width: 1cm;
+    font-size: large;
+}
+#equal{
+    background-color: mediumvioletred;
+}
