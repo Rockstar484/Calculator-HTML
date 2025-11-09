@@ -1,2 +1,2 @@
 #Calculator
-Made using HTMl and Javascript
+Made using HTML and Javascript
