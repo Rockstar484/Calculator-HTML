@@ -50,3 +50,7 @@ function equalSign(){
     result = eval(expression);
     dis.value="="+result;
 }
+
+function test(n) {
+    alert("This feature is under development")
+}
