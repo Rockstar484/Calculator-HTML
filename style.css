@@ -11,7 +11,7 @@
     width: 4.5cm;
     font-size: large;
     color: black;
-    text-align: right;
+    text-align: right; /* test */
 }
 .row{
     background-color: grey;
