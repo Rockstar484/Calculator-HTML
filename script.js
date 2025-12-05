@@ -1,4 +1,4 @@
-let result="0", expression="0";
+let result="0", expression="";
 dis = document.getElementById("display")
 
 function append(input,type,multiply){
@@ -43,7 +43,7 @@ function append(input,type,multiply){
 
 function clearDisplay(){
     dis.value="0";
-    expression="0";
+    expression="";
 }
 
 function equalSign(){
@@ -62,7 +62,7 @@ function erase(){
     dis.value = dis.value.slice(0,-1);
     
     if(expression == ""){
-        expression = "0";
+        expression = "";
         dis.value = "0";
     }
 
